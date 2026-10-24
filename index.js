@@ -4,20 +4,8 @@
 
 // আপনার ১৪টি ওয়ার্কার নোডের ডোমেইন বা সাবডোমেইনের লিস্ট
 const WORKER_NODES = [
-  "https://node1.yourdomain.workers.dev",
-  "https://node2.yourdomain.workers.dev",
-  "https://node3.yourdomain.workers.dev",
-  "https://node4.yourdomain.workers.dev",
-  "https://node5.yourdomain.workers.dev",
-  "https://node6.yourdomain.workers.dev",
-  "https://node7.yourdomain.workers.dev",
-  "https://node8.yourdomain.workers.dev",
-  "https://node9.yourdomain.workers.dev",
-  "https://node10.yourdomain.workers.dev",
-  "https://node11.yourdomain.workers.dev",
-  "https://node12.yourdomain.workers.dev",
-  "https://node13.yourdomain.workers.dev",
-  "https://node14.yourdomain.workers.dev"
+"https://node1.cdn-ottking1.workers.dev",
+  "https://node2.cdn-ottking1.workers.dev",
 ];
 
 export default {
